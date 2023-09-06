@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariecotije
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python & Kubernetes
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning Full-stack Web Development
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me LinkedIn
 
