@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mariecotije
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Full-stack Web Development
-- 💞️ I’m looking to collaborate on any interesting project.
-- 📫 How to reach me LinkedIn will be specified later :) 
+
+![GH_Banner](https://github.com/mariecotije/mariecotije/assets/121687407/78013d21-85f3-4e2e-8925-65dd3878442a)
+
+
+I'm a junior web developer with a solid foundation in full-stack web development, acquired during an intensive course at Coding Bootcamp Praha in 2023. My primary focus is front-end development. I am proficient in React.js, JavaScript, and CSS/SASS, but I am also skilled in PHP, Laravel, and MySQL, which allows me to work with the back-end. I'm passionate about continuous learning and expanding my skill set.
+
+👩‍💻 I’m looking to collaborate on any interesting project.
 
 <!---
 mariecotije/mariecotije is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
