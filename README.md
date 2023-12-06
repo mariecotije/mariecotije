@@ -4,7 +4,7 @@
 
 I'm a junior web developer with a solid foundation in full-stack web development, acquired during an intensive course at Coding Bootcamp Praha in 2023. My primary focus is front-end development. I am proficient in React.js, JavaScript, and CSS/SASS, but I am also skilled in PHP, Laravel, and MySQL, which allows me to work with the back-end. I'm passionate about continuous learning and expanding my skill set.
 
-👩‍💻 I’m looking to collaborate on any interesting project.
+👩‍💻 Actively looking for new opportunities.
 
 <!---
 mariecotije/mariecotije is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
