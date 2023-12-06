@@ -6,6 +6,17 @@ I'm a junior web developer with a solid foundation in full-stack web development
 
 👩‍💻 Actively looking for new opportunities.
 
+**Languages and Tools:**
+- JavaScript
+- React.js
+- PHP
+- Laravel
+- MySQL
+- Apache
+- HTML
+- CSS + SASS
+- Vite
+- npm
 <!---
 mariecotije/mariecotije is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
