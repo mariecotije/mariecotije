@@ -15,6 +15,7 @@ I'm a junior web developer with a solid foundation in full-stack web development
 - Apache
 - HTML
 - CSS + SASS
+- Bootstrap
 - Vite
 - npm
 <!---
