@@ -8,7 +8,7 @@ I'm a junior web developer with a solid foundation in full-stack web development
 
 **🛠️ Languages and Tools:**
 - JavaScript + TypeScript
-- React.js
+- React.js + Next.js
 - PHP
 - Laravel
 - MySQL
